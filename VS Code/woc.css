@@ -1,0 +1,37 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("https://lh3.googleusercontent.com/fife/ALs6j_EEjrHUpeMIExLBUSsouf-vYP-RsOmvPBbJ4o1NwZtcTDJ3eii0oPJ6U5oXWTnHk_h-YaLqEj8QfSbR_pq8912PkZPH6lVxd5-vY3nKhNbMUI1OQgtP_Y-hR6hbz7g3XJ8gLVCiqSrcgpAppR_x9na0cDVF6dAGtJINM7inOkRGwB1sTaJdANZEX_ndFym42mIiExN8aDYmmMTRmQx5ZwECri7mI9SyZI-uGc7KqKBvAtUkMWTVGK9TuUiRdC-DRmAPSaFlX8Ft4A_fO5woHipzKZtCO7Q-hmObk_OfFSQsrrp0Mxqvj266bwvzSQCbjsN1PAl14wn06Vcx6CuRqRWaa9zC2G_edkyrXlM7esXZ2DZf0yVV36X-HkLlT15-nrpNGilmMooC_ScHnXdlwpmxEGYZlbqopWbFYqkW6rYvDkswH8ivncRz4Y1AnDsFQZEgHABaZT9ure8_7ST-4g58EdLi0PfxpIM1yUHYlGdnrBiN77oAiypUx3jqPgACl1R4bJ1c-j5s97_EKJL6sjFrX7NaUEWJbN-roj8KxtQrpnMUwZYi6OtqKddILUoH1F2fsR-0CkpjwyMc1FwgJtnAzQ1TFZVyDvoplPfZb5LpgqOnyeLd3kXHE5qUWArjagIzmTUM9L2fI9xUR-rCEYGklKxAO7190kZTzTII9b3oCy8zur-bH-p1gOpYtw-PJHnSAnh8GI8Hmp85x1b_l6JtdKMEzSF2V6sK1V71LiSpBW7Bh5od8ZtPu0l5KGxCIqGVsz-lnSVoKYCUIDNb1wqtP_BbuNYlych8ny0iZjoQUDalT9rvw5UcH271AjZBrn1-eMYBUH-ygnvaySGR_I_TXFIFMOKF9huhkEOR7CfbbWh0FmsK90tvezwF558W9heNg6e5PbIBedjTLMypX-rVpZYMXggDut4egz4Jo9oNCNOIXnZqdnUKjHPf6H94ylsW0ObfPxjEJLwY2Z4eqGbE-_ScST2XdCCAkJMxJWOXKzqgXUus8Fz9ECPM7u5wq0IrNpTwpsAg3Lffc1yUEPXvjDhk2mrRyjd_D122avxCR2g-SuRACQt0pNVChBJAhvlRdjPn2TpveF7fUPWIG9aiikXw6dAbGmHTJyHygWdkieG8xwNu1fLB92ml8umNOaSKqlXqiY4ES1bYJ9yjKE_zy4q9Lm5v2UPAi05P6ccMitljyjC7FIeKW9wEQvYlsaqZ_yeCfBUm3Xl9LyDQxpvzuhRuFo0G39E2DY8aS2IOtY-B3E-DvW2uYEv5rNr7wqmsVRNlyEbDP0hQBZyMc45VF-cb3CCC7DWfSIlKlIQEw_wMFtQPAnS2cfDLut0HfskO70mXs69tEMCn8V9VvWbKp0kH5kaN-8khWu9cJrY6dOsNbnTtZAvrKgT_bLP-pIRYVJWuowrPdWADWPpKNE1naw=s512");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.topnav{
+    background-color: #7B2881;
+    overflow: hidden;
+}
+
+.topnav a{
+    float: left;
+    color: plum;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.topnav a:hover{
+    background-color: plum;
+    color:#7B2881
+}
+
+.topnav a:active{
+    background-color: lavender;
+    color: purple;
+}
+
+header{
+    text-align: center;
+    color: #640031;
+
+}
